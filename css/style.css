@@ -1,0 +1,82 @@
+* {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.forbody {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000;
+	padding-left: 10px;
+}
+.city {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	color: #079CCC;
+	font-weight: bold;
+	padding-left: 5px;
+}
+.price {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	color: #666;
+	font-weight: bold;
+	text-align: right;
+	padding-right: 5px;
+}
+.country {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	color: #666;
+	font-weight: bold;
+	text-align: left;
+	padding-left: 5px;
+}
+.averageprice {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	color: #666;
+	font-weight: bold;
+	text-align: right;
+	padding-right: 5px;
+}
+.result {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: lighter;
+	color: #000;
+}
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	color: #0080FF;
+	text-align: left;
+}
+h3 {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FFF;
+}
+h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	color: #FFF;
+}
+a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFF;
+}
+a:hover {
+	text-decoration: none;
+	color: #000;
+}
+a:active {
+	text-decoration: none;
+	color: #FFF;
+
+
+
+
+}
